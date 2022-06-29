@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406966970549",
+    "project_id": "townseba-8ff3a",
+    "storage_bucket": "townseba-8ff3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406966970549:android:cf4fbac733a4a6da86b6fc",
+        "android_client_info": {
+          "package_name": "com.iotic.townseba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406966970549-mnsj6fsa9in3jatk0ohsd1q83t75q57p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF_lq1j_5MEVfT3XRLb708LQ5uJAWuhVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406966970549-mnsj6fsa9in3jatk0ohsd1q83t75q57p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
